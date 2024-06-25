@@ -12,7 +12,7 @@ export default function Home() {
         <Footer />
       </div>
       <div
-        className={`w-[22rem] px-7 bg-[#FCFCFC] sticky top-[79.5px] sidebar-h  py-6 ${popins.className}`}
+        className={`w-[23rem] px-7 bg-[#FCFCFC] sticky top-[79.5px] sidebar-h  py-6 ${popins.className}`}
       >
         <ActionButtons />
         <JobInfos />
